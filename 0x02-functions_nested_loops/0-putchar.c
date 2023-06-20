@@ -1,7 +1,7 @@
-#include <stdio>
-int main(void)
+#include <stdio.h>
+int main()
 {
-	printf("_putchar");
+    printf("_putchar");
 
-return(0);
+    return 0;
 }
